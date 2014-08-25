@@ -395,7 +395,7 @@ public class CirSim extends Frame
 	activeMenu.add(getClassCheckItem("Add Triode", "TriodeElm"));
 	//activeMenu.add(getClassCheckItem("Add Diac", "DiacElm"));
 	//activeMenu.add(getClassCheckItem("Add Triac", "TriacElm"));
-	//activeMenu.add(getClassCheckItem("Add Photoresistor", "PhotoResistorElm"));
+	activeMenu.add(getClassCheckItem("Add Photoresistor", "PhotoResistorElm"));
 	//activeMenu.add(getClassCheckItem("Add Thermistor", "ThermistorElm"));
 	activeMenu.add(getClassCheckItem("Add CCII+", "CC2Elm"));
 	activeMenu.add(getClassCheckItem("Add CCII-", "CC2NegElm"));
